@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 81bbd807577f4402a8ad63cb7f9bf717
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - m_RaycastManager: {instanceID: 0}
+  - m_ObjectToPlace: {fileID: 8076580384509841118, guid: f805e74893301428090b39cc9ff895ec,
+      type: 3}
+  - planeManager: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ffe70aba2e7074048aca5de573b64a59, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  SimpleSelectedItems:
+    m_Keys:
+    - Assets/ButtonManager.cs
+    - Assets/New Material.mat
+    - Assets/New Material.mat.meta
+    - Assets/Scenes/NewUI.unity
+    - Assets/Scenes/PaintingScene.unity
+    - Assets/Scenes/PaintingScene.unity.meta
+    - Assets/Scripts/JsonConverter.cs
+    - Assets/Scripts/JsonConverter.cs.meta
+    - Assets/Scripts/Network_Manager.cs
+    - Assets/Scripts/NewButtonManager.cs
+    - Assets/Scripts/NewButtonManager.cs.meta
+    - Assets/Scripts/Painter.cs
+    - Assets/Scripts/Scene_Manager.cs
+    - Assets/Scripts/Scene_Manager.cs.meta
+    - Assets/Scripts/TextManager.cs
+    - Assets/TheFnSphere.prefab
+    - Packages/packages-lock.json
+    - ProjectSettings/EditorBuildSettings.asset
+    - ProjectSettings/ProjectSettings.asset
+    - ProjectSettings/ProjectVersion.txt
+    - ProjectSettings/TagManager.asset
+    - 
+    m_Values: 00000000000000000000000000000000000000000000
+  RevisionSummary: 
+  ChangesSearchValue: 
+  SelectedHistoryRevision: 
+  HistoryPageNumber: 0
+  TabIndex: 0
